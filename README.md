@@ -13,7 +13,24 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/ramocky/ramocky/main/.github/assets/profile.svg" width="100%" alt="profile" />
+### <samp>❯ whoami</samp>
+
+```bash
+$ whoami
+ramocky  ·  Frontend Engineer  ·  China
+
+$ cat stack.json
+{
+  "languages": ["JavaScript", "TypeScript"],
+  "frontend":  ["Vue", "React Native", "Vite", "Element UI"],
+  "tooling":   ["Node.js", "Git", "Tampermonkey", "Docker"],
+  "motto":     "Automate everything that repeats."
+}
+
+$ git status
+On branch main
+nothing to commit, working tree clean ✨
+```
 
 ### <samp>❯ ls ~/projects</samp>
 

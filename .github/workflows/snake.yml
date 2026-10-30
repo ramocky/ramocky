@@ -17,6 +17,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ramocky
+          # PAT_TOKEN 存在时用它抓取（可包含私有贡献），否则回落到内置 token
+          github_token: ${{ secrets.PAT_TOKEN || github.token }}
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=#e6edf3&color_dots=#21262d,#30363d,#484f58,#6e7681,#8b949e
 
