@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:36bcf7&height=220&section=header&text=ramocky&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Engineer%20%C2%B7%20Vue%20%26%20React%20Native%20%C2%B7%20Userscript%20Hacker&descAlignY=58&descSize=17" width="100%" />
+<img src="https://raw.githubusercontent.com/ramocky/ramocky/main/.github/assets/banner.svg" width="100%" alt="ramocky" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+ramocky;Frontend+Engineer+%F0%9F%92%BB;Vue+%7C+React+Native+%7C+Node.js;Automate+everything+that+repeats" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+ramocky;Frontend+Engineer+%F0%9F%92%BB;Vue+%7C+React+Native+%7C+Node.js;Automate+everything+that+repeats" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -13,28 +13,7 @@
 
 </div>
 
----
-
-### <samp>❯ whoami</samp>
-
-```bash
-$ whoami
-ramocky  ·  Frontend Engineer  ·  China
-
-$ cat stack.json
-{
-  "languages": ["JavaScript", "TypeScript"],
-  "frontend":  ["Vue", "React Native", "Vite", "Element UI"],
-  "tooling":   ["Node.js", "Git", "Tampermonkey", "Docker"],
-  "motto":     "Automate everything that repeats."
-}
-
-$ git status
-On branch main
-nothing to commit, working tree clean ✨
-```
-
----
+<img src="https://raw.githubusercontent.com/ramocky/ramocky/main/.github/assets/terminal.svg" width="100%" alt="terminal" />
 
 ### <samp>❯ ls ~/projects</samp>
 
@@ -44,46 +23,26 @@ nothing to commit, working tree clean ✨
 - ⚡ 能用脚本解决的，绝不手动点第二遍
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,vite,webpack,git,github,docker,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,vite,webpack,git,github,docker,html,css&perline=6" alt="tech stack" />
 </div>
 
----
-
-### <samp>❯ cat stats.md</samp>
+### <samp>❯ git log --stat</samp>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramocky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramocky&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramocky&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/stars/ramocky/Auto-Mock-Test-Data?label=STARS&style=for-the-badge&color=36bcf7&logo=github" alt="stars" />
+  <img src="https://img.shields.io/github/last-commit/ramocky/Auto-Mock-Test-Data?label=LAST+COMMIT&style=for-the-badge&color=36bcf7&logo=git" alt="last commit" />
+  <img src="https://img.shields.io/github/commit-activity/y/ramocky/Auto-Mock-Test-Data?label=COMMITS%2FYEAR&style=for-the-badge&color=36bcf7&logo=githubactions" alt="commits per year" />
+  <img src="https://img.shields.io/github/languages/top/ramocky/Auto-Mock-Test-Data?label=TOP+LANG&style=for-the-badge&color=36bcf7&logo=javascript" alt="top language" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramocky&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=ramocky&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=A371F7" alt="streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramocky&repo=Auto-Mock-Test-Data&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ### <samp>❯ ./contributions.sh</samp>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramocky&theme=tokyonight" width="100%" />
+  <img src="https://raw.githubusercontent.com/ramocky/ramocky/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ramocky/ramocky/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36bcf7,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/ramocky/ramocky/main/.github/assets/footer.svg" width="100%" alt="footer" />
