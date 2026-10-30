@@ -46,16 +46,16 @@ nothing to commit, working tree clean ✨
 ### <samp>❯ cat stats.md</samp>
 
 <div align="center">
-  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=ramocky&show_icons=true&hide_border=true&bg_color=1c2128&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&include_all_commits=true&cache_seconds=1800" alt="stats" />
-  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ramocky&layout=compact&hide_border=true&bg_color=1c2128&title_color=e6edf3&text_color=8b949e&langs_count=8&cache_seconds=1800" alt="top languages" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=ramocky&show_icons=true&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=57606a&include_all_commits=true&cache_seconds=1800" alt="stats" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ramocky&layout=compact&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&langs_count=8&cache_seconds=1800" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramocky&hide_border=true&background=1C2128&stroke=30363D&ring=E6EDF3&fire=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B949E&sideLabels=8B949E&dates=484F58" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=ramocky&hide_border=false&border=D0D7DE&background=F6F8FA&ring=1F2328&fire=57606A&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=57606A&sideLabels=57606A&dates=8B949E" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=ramocky&repo=Auto-Mock-Test-Data&hide_border=true&bg_color=1c2128&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3" alt="featured repo" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=ramocky&repo=Auto-Mock-Test-Data&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=57606a" alt="featured repo" />
 </div>
 
 ### <samp>❯ ./contributions.sh</samp>
@@ -65,7 +65,7 @@ nothing to commit, working tree clean ✨
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" alt="quote" />
 </div>
 
 <img src="https://raw.githubusercontent.com/ramocky/ramocky/main/.github/assets/footer.svg" width="100%" alt="footer" />
