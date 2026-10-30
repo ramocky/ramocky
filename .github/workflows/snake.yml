@@ -20,7 +20,7 @@ jobs:
           # PAT_TOKEN 存在时用它抓取（可包含私有贡献），否则回落到内置 token
           github_token: ${{ secrets.PAT_TOKEN || github.token }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#30363d,#444c56,#636e7b,#8b949e,#c9d1d9
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#1f2328&color_dots=#ebedf0,#d8dee4,#b1bac4,#7d8590,#424a53
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
