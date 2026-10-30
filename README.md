@@ -45,21 +45,21 @@ nothing to commit, working tree clean ✨
 
 ### <samp>❯ cat stats.md</samp>
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" align="center" width="55%">
-      <img src="https://gh-readme-stats.vercel.app/api?username=ramocky&show_icons=true&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=57606a&include_all_commits=true&cache_seconds=1800" alt="stats" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://gh-readme-stats.vercel.app/api?username=ramocky&show_icons=true&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=57606a&include_all_commits=true&cache_seconds=1800" width="100%" alt="stats" />
     </td>
-    <td valign="top" align="center" width="45%">
-      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ramocky&layout=compact&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&langs_count=8&cache_seconds=1800" alt="top languages" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ramocky&layout=compact&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&langs_count=8&cache_seconds=1800" width="100%" alt="top languages" />
     </td>
   </tr>
   <tr>
-    <td valign="top" align="center">
-      <img src="https://streak-stats.demolab.com?user=ramocky&hide_border=false&border=D0D7DE&background=F6F8FA&ring=1F2328&fire=57606A&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=57606A&sideLabels=57606A&dates=8B949E" alt="streak" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com?user=ramocky&hide_border=false&border=D0D7DE&background=F6F8FA&ring=1F2328&fire=57606A&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=57606A&sideLabels=57606A&dates=8B949E" width="100%" alt="streak" />
     </td>
-    <td valign="top" align="center">
-      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=ramocky&repo=Auto-Mock-Test-Data&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=57606a" alt="featured repo" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=ramocky&repo=Auto-Mock-Test-Data&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=57606a" width="100%" alt="featured repo" />
     </td>
   </tr>
 </table>
