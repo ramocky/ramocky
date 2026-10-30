@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" fill="none" role="img" aria-label="profile">
+  <rect x="0.5" y="0.5" width="999" height="319" rx="8" fill="#161b22" stroke="#30363d"/>
+
+  <line x1="48" y1="64" x2="952" y2="64" stroke="#21262d"/>
+  <line x1="48" y1="120" x2="952" y2="120" stroke="#21262d"/>
+  <line x1="48" y1="176" x2="952" y2="176" stroke="#21262d"/>
+  <line x1="48" y1="232" x2="952" y2="232" stroke="#21262d"/>
+  <line x1="48" y1="288" x2="952" y2="288" stroke="#21262d"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <g font-size="11" letter-spacing="3" fill="#6e7681">
+      <text x="48" y="40">ROLE</text>
+      <text x="48" y="96">STACK</text>
+      <text x="48" y="152">FOCUS</text>
+      <text x="48" y="208">BASED IN</text>
+      <text x="48" y="264">MOTTO</text>
+    </g>
+
+    <g font-size="15" fill="#c9d1d9">
+      <text x="280" y="40">Frontend Engineer</text>
+      <text x="280" y="96">Vue · React Native · TypeScript</text>
+      <text x="280" y="152">Web 工程化 · 浏览器扩展 · 移动端 H5</text>
+      <text x="280" y="208">China</text>
+      <text x="280" y="264">Automate everything that repeats.</text>
+    </g>
+  </g>
+</svg>

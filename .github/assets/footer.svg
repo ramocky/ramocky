@@ -1,36 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" fill="none" role="img" aria-label="footer">
-  <defs>
-    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="140" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
-      <stop offset="1" stop-color="#02120a"/>
-    </linearGradient>
-    <linearGradient id="waveA" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00ff41" stop-opacity="0.10"/>
-      <stop offset="0.5" stop-color="#00ff41" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#00ff41" stop-opacity="0.10"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00ff41" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#00ff41" stop-opacity="0.7"/>
-      <stop offset="1" stop-color="#00ff41" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" fill="none" role="img" aria-label="footer">
+  <rect y="0.5" width="1200" height="1" fill="#21262d"/>
 
-  <rect width="1200" height="140" fill="url(#fade)"/>
+  <text x="600" y="44" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="5" fill="#484f58">
+    RAMOCKY
+  </text>
 
-  <path d="M0 96 C 200 70, 400 122, 600 96 S 1000 70, 1200 96 L1200 140 L0 140 Z" fill="url(#waveA)">
-    <animate attributeName="d" dur="12s" repeatCount="indefinite"
-      values="M0 96 C 200 70, 400 122, 600 96 S 1000 70, 1200 96 L1200 140 L0 140 Z;
-              M0 96 C 200 122, 400 70, 600 96 S 1000 122, 1200 96 L1200 140 L0 140 Z;
-              M0 96 C 200 70, 400 122, 600 96 S 1000 70, 1200 96 L1200 140 L0 140 Z"/>
-  </path>
-
-  <rect x="0" y="0" width="1200" height="1" fill="url(#line)"/>
-
-  <text x="600" y="46" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#1fa84a">
-    WAKE UP, NEO
-    <tspan fill="#0d5c2a"> · </tspan>
-    THE MATRIX HAS YOU
-    <animate attributeName="opacity" values="0.45;1;0.45" dur="5s" repeatCount="indefinite"/>
+  <text x="600" y="68" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="3" fill="#30363d">
+    FRONTEND ENGINEER · CHINA
   </text>
 </svg>
