@@ -1,0 +1,30 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  github-metrics:
+    # metrics 会把生成的 SVG 提交回 main，排除 bot 自身提交避免死循环
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ramocky
+          filename: github-metrics.svg
+          template: classic
+          base: activity, community, metadata
+          config_timezone: Asia/Shanghai
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 0%
