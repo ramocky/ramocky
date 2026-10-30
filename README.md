@@ -45,27 +45,29 @@ nothing to commit, working tree clean ✨
 
 ### <samp>❯ cat stats.md</samp>
 
-<div align="center">
-  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=ramocky&show_icons=true&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=57606a&include_all_commits=true&cache_seconds=1800" alt="stats" />
-  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ramocky&layout=compact&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&langs_count=8&cache_seconds=1800" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramocky&hide_border=false&border=D0D7DE&background=F6F8FA&ring=1F2328&fire=57606A&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=57606A&sideLabels=57606A&dates=8B949E" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=ramocky&repo=Auto-Mock-Test-Data&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=57606a" alt="featured repo" />
-</div>
+<table>
+  <tr>
+    <td valign="top" align="center" width="55%">
+      <img src="https://gh-readme-stats.vercel.app/api?username=ramocky&show_icons=true&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=57606a&include_all_commits=true&cache_seconds=1800" alt="stats" />
+    </td>
+    <td valign="top" align="center" width="45%">
+      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ramocky&layout=compact&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&langs_count=8&cache_seconds=1800" alt="top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://streak-stats.demolab.com?user=ramocky&hide_border=false&border=D0D7DE&background=F6F8FA&ring=1F2328&fire=57606A&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=57606A&sideLabels=57606A&dates=8B949E" alt="streak" />
+    </td>
+    <td valign="top" align="center">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=ramocky&repo=Auto-Mock-Test-Data&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=57606a" alt="featured repo" />
+    </td>
+  </tr>
+</table>
 
 ### <samp>❯ ./contributions.sh</samp>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ramocky/ramocky/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" alt="quote" />
 </div>
 
 <img src="https://raw.githubusercontent.com/ramocky/ramocky/main/.github/assets/footer.svg" width="100%" alt="footer" />
