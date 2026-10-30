@@ -1,59 +1,67 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" fill="none" role="img" aria-label="terminal profile">
   <defs>
     <linearGradient id="win" x1="0" y1="0" x2="0" y2="360" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#161b22"/>
-      <stop offset="1" stop-color="#0d1117"/>
+      <stop offset="0" stop-color="#04130a"/>
+      <stop offset="1" stop-color="#010805"/>
     </linearGradient>
     <linearGradient id="bar" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#21262d"/>
-      <stop offset="1" stop-color="#161b22"/>
+      <stop offset="0" stop-color="#07200f"/>
+      <stop offset="1" stop-color="#04130a"/>
+    </linearGradient>
+    <linearGradient id="scanline" x1="0" y1="0" x2="0" y2="4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ff41" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#00ff41" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <rect x="0.5" y="0.5" width="999" height="359" rx="12" fill="url(#win)" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="999" height="359" rx="12" fill="url(#win)" stroke="#0d3d1c"/>
   <path d="M0 12a12 12 0 0 1 12-12h976a12 12 0 0 1 12 12v32H0z" fill="url(#bar)"/>
-  <line x1="0" y1="44" x2="1000" y2="44" stroke="#30363d"/>
+  <line x1="0" y1="44" x2="1000" y2="44" stroke="#0d3d1c"/>
 
-  <circle cx="28" cy="22" r="6" fill="#ff5f56"/>
-  <circle cx="50" cy="22" r="6" fill="#ffbd2e"/>
-  <circle cx="72" cy="22" r="6" fill="#27c93f"/>
-  <text x="500" y="27" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8b949e">ramocky@github: ~/profile</text>
+  <circle cx="28" cy="22" r="6" fill="#0f6d31"/>
+  <circle cx="50" cy="22" r="6" fill="#1fa84a"/>
+  <circle cx="72" cy="22" r="6" fill="#33ff66"/>
+  <text x="500" y="27" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#1f8a3c">ramocky@matrix: ~/profile</text>
 
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">
-    <text x="34" y="86" fill="#36bcf7">$</text>
-    <text x="56" y="86" fill="#e6edf3">whoami</text>
+    <text x="34" y="86" fill="#33ff66">$</text>
+    <text x="56" y="86" fill="#9dffb8">whoami</text>
 
-    <text x="34" y="116" fill="#8b949e">ramocky</text>
-    <text x="120" y="116" fill="#484f58">·</text>
-    <text x="140" y="116" fill="#a371f7">Frontend Engineer</text>
-    <text x="300" y="116" fill="#484f58">·</text>
-    <text x="320" y="116" fill="#7ee787">China</text>
+    <text x="34" y="116" fill="#1fa84a">ramocky</text>
+    <text x="120" y="116" fill="#0d5c2a">·</text>
+    <text x="140" y="116" fill="#33ff66">Frontend Engineer</text>
+    <text x="300" y="116" fill="#0d5c2a">·</text>
+    <text x="320" y="116" fill="#1fa84a">China</text>
 
-    <text x="34" y="158" fill="#36bcf7">$</text>
-    <text x="56" y="158" fill="#e6edf3">cat stack.json</text>
+    <text x="34" y="158" fill="#33ff66">$</text>
+    <text x="56" y="158" fill="#9dffb8">cat stack.json</text>
 
-    <text x="34" y="188" fill="#484f58">{</text>
-    <text x="56" y="188" fill="#79c0ff">"frontend"</text>
-    <text x="148" y="188" fill="#484f58">:</text>
-    <text x="164" y="188" fill="#a5d6ff">["Vue", "React Native", "Vite"]</text>
-    <text x="390" y="188" fill="#484f58">,</text>
+    <text x="34" y="188" fill="#0d5c2a">{</text>
+    <text x="56" y="188" fill="#1fa84a">"frontend"</text>
+    <text x="148" y="188" fill="#0d5c2a">:</text>
+    <text x="164" y="188" fill="#9dffb8">["Vue", "React Native", "Vite"]</text>
+    <text x="390" y="188" fill="#0d5c2a">,</text>
 
-    <text x="56" y="214" fill="#79c0ff">"tooling"</text>
-    <text x="140" y="214" fill="#484f58">:</text>
-    <text x="156" y="214" fill="#a5d6ff">["Node.js", "Tampermonkey", "Docker"]</text>
-    <text x="398" y="214" fill="#484f58">,</text>
+    <text x="56" y="214" fill="#1fa84a">"tooling"</text>
+    <text x="140" y="214" fill="#0d5c2a">:</text>
+    <text x="156" y="214" fill="#9dffb8">["Node.js", "Tampermonkey", "Docker"]</text>
+    <text x="398" y="214" fill="#0d5c2a">,</text>
 
-    <text x="56" y="240" fill="#79c0ff">"motto"</text>
-    <text x="124" y="240" fill="#484f58">:</text>
-    <text x="140" y="240" fill="#a5d6ff">"Automate everything that repeats."</text>
-    <text x="34" y="266" fill="#484f58">}</text>
+    <text x="56" y="240" fill="#1fa84a">"motto"</text>
+    <text x="124" y="240" fill="#0d5c2a">:</text>
+    <text x="140" y="240" fill="#9dffb8">"Automate everything that repeats."</text>
+    <text x="34" y="266" fill="#0d5c2a">}</text>
 
-    <text x="34" y="308" fill="#36bcf7">$</text>
-    <text x="56" y="308" fill="#e6edf3">git status</text>
-    <text x="34" y="336" fill="#7ee787">On branch main</text>
-    <text x="176" y="336" fill="#8b949e">— nothing to commit, working tree clean</text>
-    <rect x="726" y="324" width="9" height="16" fill="#36bcf7">
+    <text x="34" y="308" fill="#33ff66">$</text>
+    <text x="56" y="308" fill="#9dffb8">git status</text>
+    <text x="34" y="336" fill="#33ff66">On branch main</text>
+    <text x="176" y="336" fill="#1fa84a">— nothing to commit, working tree clean</text>
+    <rect x="726" y="324" width="9" height="16" fill="#33ff66">
       <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>
   </g>
+
+  <rect x="1" y="45" width="998" height="314" fill="url(#scanline)" opacity="0.6">
+    <animate attributeName="y" values="45;359" dur="5s" repeatCount="indefinite"/>
+  </rect>
 </svg>
