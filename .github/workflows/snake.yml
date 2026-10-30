@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: ramocky
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#e6edf3&color_dots=#21262d,#30363d,#484f58,#6e7681,#8b949e
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -29,16 +29,16 @@
 ### <samp>❯ cat stats.md</samp>
 
 <div align="center">
-  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=ramocky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="stats" />
-  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ramocky&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="top languages" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=ramocky&show_icons=true&hide_border=true&bg_color=1c2128&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&include_all_commits=true&cache_seconds=1800" alt="stats" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ramocky&layout=compact&hide_border=true&bg_color=1c2128&title_color=e6edf3&text_color=8b949e&langs_count=8&cache_seconds=1800" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramocky&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=ramocky&hide_border=true&background=1C2128&stroke=30363D&ring=E6EDF3&fire=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B949E&sideLabels=8B949E&dates=484F58" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=ramocky&repo=Auto-Mock-Test-Data&theme=tokyonight&hide_border=true" alt="featured repo" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=ramocky&repo=Auto-Mock-Test-Data&hide_border=true&bg_color=1c2128&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3" alt="featured repo" />
 </div>
 
 ### <samp>❯ ./contributions.sh</samp>
@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
 </div>
 
 <img src="https://raw.githubusercontent.com/ramocky/ramocky/main/.github/assets/footer.svg" width="100%" alt="footer" />
