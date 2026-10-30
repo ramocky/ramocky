@@ -70,14 +70,14 @@ nothing to commit, working tree clean ✨
 
 ---
 
-### <samp>❯ ./contribution-snake.sh</samp>
+### <samp>❯ ./contributions.sh</samp>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ramocky/ramocky/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramocky&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ramocky/ramocky/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/ramocky/ramocky/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
